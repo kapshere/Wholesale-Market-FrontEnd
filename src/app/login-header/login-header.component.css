@@ -1,0 +1,11 @@
+header {
+    text-align: center;
+    padding: 5px 0;
+    font-size: 20;
+    font-weight: bold;
+    font-family: serif;
+    font-size: 40px;
+    color: #fff;
+    background-color: #232863; 
+    border-bottom: 2px solid #eee;
+}
